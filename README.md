@@ -1,4 +1,4 @@
-# Hitgub: Insignias, Logros y Pull Requests
+# Github: Insignias, Logros y Pull Requests
 
 Este repositorio contiene el documento PDF **"Hitgub: insignias, logros y pull requests"**, una guía completa y práctica diseñada para cualquier hispanohablante que se esté iniciando en el uso y manejo de GitHub.
 
